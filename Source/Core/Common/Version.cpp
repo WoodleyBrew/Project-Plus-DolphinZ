@@ -9,7 +9,7 @@
 
 namespace Common
 {
-#define EMULATOR_NAME "Project+ Dolphin"
+#define EMULATOR_NAME "Butts in my Nuttsz"
 
 #ifdef _DEBUG
 #define BUILD_TYPE_STR "Debug "
