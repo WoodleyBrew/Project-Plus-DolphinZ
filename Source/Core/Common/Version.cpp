@@ -9,7 +9,7 @@
 
 namespace Common
 {
-#define EMULATOR_NAME "Butts in my Nuttsz"
+#define EMULATOR_NAME "Zubild"
 
 #ifdef _DEBUG
 #define BUILD_TYPE_STR "Debug "
