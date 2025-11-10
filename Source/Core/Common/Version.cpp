@@ -9,7 +9,7 @@
 
 namespace Common
 {
-#define EMULATOR_NAME "Zubuild Dolphin"
+#define EMULATOR_NAME "Motobug is swag"
 
 #ifdef _DEBUG
 #define BUILD_TYPE_STR "Debug "
